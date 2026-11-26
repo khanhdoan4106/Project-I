@@ -1,0 +1,3 @@
+# Chỉ dùng để đối chiếu kết quả với thuật toán tự cài đặt
+networkx
+pytest
