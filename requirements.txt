@@ -1,3 +1,2 @@
-# Chỉ dùng để đối chiếu kết quả với thuật toán tự cài đặt
-networkx
+networkx  # chỉ dùng trong test để đối chiếu kết quả
 pytest
