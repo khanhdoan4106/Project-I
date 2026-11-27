@@ -9,6 +9,7 @@ Dữ liệu thử nghiệm gồm mạng Karate Club (có sẵn trong NetworkX) v
 ```
 src/sna/     mã nguồn các thuật toán
 tests/       các file test chạy bằng pytest
+scripts/     script phụ trợ (tải dữ liệu SNAP)
 data/        dữ liệu (dữ liệu thô để trong data/raw/, không đẩy lên repo)
 ```
 
