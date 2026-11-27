@@ -1,0 +1,14 @@
+# File mẫu để test read_edge_list
+1 2
+2 3
+
+1 2
+2 1
+3 3
+4
+a b
+1 2 3
+# Các cạnh hợp lệ còn lại
+3 4
+4 5
+   
